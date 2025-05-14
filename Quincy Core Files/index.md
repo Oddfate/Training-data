@@ -1,0 +1,5 @@
+- 721351c4b31741b5a1ec37eda13b46dec5a7facf84e1957985111b27e39c94fa — json — E:\QuincyWebAccessMats\Quincy Core Files\Brownstone Campus.json
+- 601352824a0642ff659cadf7036ffcffbe15aab3dabfede68db38da50343e5cd — json — E:\QuincyWebAccessMats\Quincy Core Files\BSL-Section 1-3.json
+- 11158577209f7871a45cc89c5c6691d3026d67a6ef3ee6f5ea4e3f39db0f33c8 — html — E:\QuincyWebAccessMats\Quincy Core Files\Message2_Neurodivergent_Language_Accommod.html
+- 5f31a166790ac732fad05e28e61639178fe4c10218d1614b3c68acf4f8514bba — json — E:\QuincyWebAccessMats\Quincy Core Files\Quincy.json
+- 91e085df786e0d9b34c04d8d0a0cd2129b08d26bfe0c4c660473cf8374c2b02c — json — E:\QuincyWebAccessMats\Quincy Core Files\QuincyHome.json
